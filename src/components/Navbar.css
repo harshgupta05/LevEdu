@@ -1,0 +1,26 @@
+.navbarContainer {
+    height: 70px;
+    width: 100vw;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgb(0, 0, 0) 100%, rgb(9, 10, 10) 100%);
+    box-sizing: border-box;
+    text-decoration: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbarContainer p {
+    margin-top: 12px;
+    margin-left: 1.7rem;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 36px;
+    color: rgb(217, 209, 209);
+
+    /* color: #6D6F6E; */
+}

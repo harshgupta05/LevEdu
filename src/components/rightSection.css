@@ -1,0 +1,5 @@
+.rightSection img{
+    width: 100%;
+    height: 97vh;
+    object-fit: fill;
+}
